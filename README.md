@@ -3,7 +3,6 @@
 A simple and relaxing **raindrops animation** created using **HTML**, **CSS**, and **JavaScript**.  
 The animation simulates falling raindrops on a canvas to create a calm, rainy-day effect.
 
----
 
 ##  Demo
 Check out the live version here: [Add your link once deployed]
